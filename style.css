@@ -6,26 +6,16 @@ body {
     padding: 24px;
 }
 
-.manager-card {
-    margin: 0 auto;
-    border: 6px solid green;
-    padding: 12px 24px;
-    border-radius: 6px;
-
-}
-
 .engineer-card {
-    border: 6px solid orangered;
+    border: 6px solid fuchsia;
     padding: 12px 24px;
     border-radius: 6px;
 
 }
 
-.intern-card {
-    border: 6px solid blueviolet;
-    padding: 12px 24px;
-    border-radius: 6px;
-
+.employee-name,
+.title {
+    text-align: center;
 }
 
 .employee-wrapper {
@@ -36,8 +26,24 @@ body {
     margin-top: 24px;
 }
 
-.employee-name,
-.heading,
-.title {
+.heading {
     text-align: center;
+    background-color: #20FC8F;
+    margin-top: 0;
+    padding: 24px;
+}
+
+.intern-card {
+    border: 6px solid fuchsia;
+    padding: 12px 24px;
+    border-radius: 6px;
+
+}
+
+.manager-card {
+    margin: 0 auto;
+    border: 6px solid fuchsia;
+    padding: 12px 24px;
+    border-radius: 6px;
+
 }
