@@ -1,0 +1,43 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.manager-card {
+    margin: 0 auto;
+    border: 6px solid green;
+    padding: 12px 24px;
+    border-radius: 6px;
+
+}
+
+.engineer-card {
+    border: 6px solid orangered;
+    padding: 12px 24px;
+    border-radius: 6px;
+
+}
+
+.intern-card {
+    border: 6px solid blueviolet;
+    padding: 12px 24px;
+    border-radius: 6px;
+
+}
+
+.employee-wrapper {
+    display: flex;
+    margin: 0 auto;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 24px;
+}
+
+.employee-name,
+.heading,
+.title {
+    text-align: center;
+}
