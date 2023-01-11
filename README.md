@@ -28,4 +28,4 @@ Below is a screenshot of my latest and greatest:
 
 ![](./ProjectScreenshot.png)
 
-To check out the full experience, watch the video recording of the generated README [here](https://drive.google.com/file/d/1dJ4BJTdjtXeWVQ5IOgV2sVEyGIKo4zpq/view?usp=sharing).
+To check out the full experience, watch the video recording of the generated team profile [here](https://drive.google.com/file/d/1dJ4BJTdjtXeWVQ5IOgV2sVEyGIKo4zpq/view?usp=sharing).
